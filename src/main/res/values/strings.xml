@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Kbus</string>
+    <string name="select">Select Destination</string>
+    <string-array name="Destination">
+
+
+        <item>Ponkunnam</item>
+        <item>Changanassery</item>
+        <item>Kottayam</item>
+        <item>Pala</item>
+        <item>Eratupetta</item>
+        <item>Manimala</item>
+        <item>Erumely</item>
+        <item>Mundakayam</item>
+        <item>Kumily</item>
+        <item>Kattapana</item>
+
+
+
+    </string-array>
+</resources>
